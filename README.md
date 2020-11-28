@@ -1,6 +1,6 @@
 # Jarvis-AI-Docoments
 AI
-Haris@DESKTOP-RN53EBB MINGW64 ~/Desktop 
+Faizans@DESKTOP-RN53EBB MINGW64 ~/Desktop 
 $ git config --global user.name Faizan
 Faizans@DESKTOP-RN53EBB MINGW64 ~/Desktop 
 S git config --global user.email faizan@codewithfaizan.com 
