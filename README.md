@@ -1,15 +1,5 @@
 # Jarvis-AI-Docoments
 AI
-Faizans@DESKTOP-RN53EBB MINGW64 ~/Desktop 
-$ git config --global user.name Faizan
-Faizans@DESKTOP-RN53EBB MINGW64 ~/Desktop 
-S git config --global user.email faizan@codewithfaizan.com 
-Faizans@DESKTOP-RN53EBB MINGW64 ~/Desktop 
-S git config --global user.email faizan@codewithfaizan.com 
-Faizan@DESKTOP-RN53EBB MINGW64 ~/Desktop 
-$ git config --global user.name Faizan
-Haris@DESKTOP-RN53EBB MINGW64 ~/Desktop
-$
 import pyttsx3
 engine = pyttsx3.init('sapi5')
 voices= engine.getProperty('voices') #getting details of current voice
